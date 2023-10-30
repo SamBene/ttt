@@ -1,6 +1,0 @@
-Fish Goldfish Gold Carnivorous
-Fish Clownfish Orange Omnivorous
-Bird Eagle Brown Mountain Carnivorous
-Bird Parrot Green Jungle Herbivorous
-Cat Siamese SealPoint JohnSmith Fluffy
-Cat MaineCoon Tabby AliceJohnson Whiskers
