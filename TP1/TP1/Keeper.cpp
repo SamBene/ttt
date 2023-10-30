@@ -11,9 +11,9 @@ Keeper::Keeper() {
 
 Keeper::~Keeper() {
     cout << "Keeper destructor called" << endl;
-    for (Base* animal : animals) {
+   /* for (Base* animal : animals) {
         delete animal;
-    }
+    }*/
 }
 
 void Keeper::AddAnimal(Base* animal) {
