@@ -1,0 +1,4 @@
+﻿  TP2k3.cpp
+C:\project\git\tp2\TP2k3\TP2k3\container.h(57): warning C4715: Container::operator[]: значение возвращается не при всех путях выполнения
+TP2k3.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Price::~Price(void)" (??1Price@@QEAA@XZ) в функции "public: void * __cdecl Price::`scalar deleting destructor'(unsigned int)" (??_GPrice@@QEAAPEAXI@Z).
+C:\project\git\tp2\TP2k3\x64\Debug\TP2k3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
